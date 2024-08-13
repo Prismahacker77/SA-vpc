@@ -1,2 +1,2 @@
 # SA-vpc
-list vpcs
+Detect and list VPC configurations
